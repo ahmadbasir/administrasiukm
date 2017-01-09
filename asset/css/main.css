@@ -1,0 +1,51 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 90%;
+      margin: auto;
+  }
+img{
+	margin: auto;
+}
+#div{
+	background-color: blue;
+}
+span{
+	
+}
+.container-fluid{
+	margin-top: 10px;
+}
+
+.bottom {
+	margin-top: 30px;
+    background-color: #373737;
+}
+.bottom .container {
+    min-height: 200px;
+    border: 1px;
+    border-color: red;
+}
+.bottom .container h4 {
+	margin-top: 40px;
+    color: #999;
+    text-align: left;
+}
+.bottom .container p {
+    color: #666;
+    text-align: justify;
+}
+
+.bawah{
+	background-color: #474747;
+	min-height: 20px;
+}
+.bawah p {
+	color: #999;
+	text-align: center;
+	margin: auto;
+}
+.jajal{
+	color: red;
+	background-color: green;
+	margin-top: 40px;
+}
